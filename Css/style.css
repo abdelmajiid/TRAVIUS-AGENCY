@@ -27,12 +27,13 @@ body{
     padding: 10px;
     box-sizing: border-box;
     margin: 0%;
-    font-size: 2.2em;
+    /* font-size: 2.2em; */
 
 }
 #logo{
     align-items: center;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
     /* width: 30%; */
 }
 
